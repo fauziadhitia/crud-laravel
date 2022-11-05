@@ -243,3 +243,5 @@ class PegawaiController extends Controller
         }
     }
 }
+
+//error gak bisa simpan data, klo gk percaya coba aja cok
